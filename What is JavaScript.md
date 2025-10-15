@@ -1,3 +1,5 @@
+Website namaku enna function nadakanumo athuku etha maari action panna vaikurathuku JS(JavaScript) language use pandrom
+
 Before JavaScript is used to create only interactive web pages in browsers
 
 Now we can develope Web/Mobile apps, Real-time Networking apps (Whats app), Command-line Tools, Games
