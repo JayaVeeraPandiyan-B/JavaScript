@@ -10,3 +10,7 @@ Before JavaScript designes to run only in browser, ella browser liyum JavaScript
 So, ippo Node nu Brian Doll create panaru, Chrome la Open Source JavaScript engine ah create panni Chrome liye C++ program ah embedded panitaru, itha Program Node nu call panaru
 
 Node oru C++ program ithula Chrome's V8 JS engine um irukku, using this Node ippo browser la mattum illama outside of the browser liyum run panalam, Ipo JavaScript code ah Node tha excute panuthu
+
+Ipo JavaScript naala we can build back-end for our web and mobile apppications
+
+JavaScript ipo browser and Node la run panalam, browser and Node oru run time environment ah JavaScript code ku tharuthu
